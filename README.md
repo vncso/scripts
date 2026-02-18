@@ -19,11 +19,17 @@ INFORME OS DADOS SOLICITADOS PARA GERAR A PLANILHA PARA IMPORTAÇÃO
 ###################################################################
 
 Digite o nome do arquivo CSV com os dados dos TUTORES enviado pelo cliente: clientes_3
+
 Digite o nome do arquivo de saída para os TUTORES: saida_clientes_3
+
 Digite a quantidade de linhas que cada planilha de TUTORES vai ter: 300
+
 Foram encontrados 21 registros duplicados.
+
 Arquivo 'saida_clientes_3_1.xlsx' gerado com 300 linhas.
+
 Arquivo 'saida_clientes_3_2.xlsx' gerado com 300 linhas.
+
 Arquivo 'saida_clientes_3_3.xlsx' gerado com 31 linhas.
 
 ##########################################################################
@@ -35,12 +41,19 @@ Importe os dados da planilha gerada acima para o sistema. Após a importação, 
 ############################################################################################################
 
 Digite o nome do arquivo CSV com os dados dos PETS enviado pelo cliente: animais_3
+
 Digite o nome do arquivo EXCEL com os dados das RAÇAS (exportado do sistema modelo pet): base_modelo
+
 Digite o nome do arquivo de saída para os PETS: saida_animais_3
+
 Digite a quantidade de linhas que cada planilha de PETS vai ter: 300
+
 Foram encontrados 95 registros duplicados.
+
 Arquivo 'saida_animais_3_1.xlsx' gerado com 300 linhas.
+
 Arquivo 'saida_animais_3_2.xlsx' gerado com 300 linhas.
+
 Arquivo 'saida_animais_3_3.xlsx' gerado com 153 linhas.
 
 ##########################################################################
